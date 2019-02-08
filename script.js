@@ -1,4 +1,4 @@
-function String SubmitAnswer(pQuestionID, pAnswerID){
+function SubmitAnswer(pQuestionID, pAnswerID){
 	var result = "";
 	// check answer
 	return result;
