@@ -1,45 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<QData>
-	<NoOfQuestions>2</NoOfQuestions>
+<QData> 
 	<Question>
 		<QuestionID>1</QuestionID>
 		<QuestionText>孫策生於那一年?</QuestionText>
 		<Answer>4</Answer>
-		<Options>
-			<OptionID>1</OptionID>
-			<OptionText>公元118年</OptionText>
-		</Options>
-		<Options>
-			<OptionID>2</OptionID>
-			<OptionText>公元128年</OptionText>
-		</Options>
-		<Options>
-			<OptionID>3</OptionID>
-			<OptionText>公元178年</OptionText>
-		</Options>
-		<Options>
-			<OptionID>4</OptionID>
-			<OptionText>公元188年</OptionText>
+		<Option1>公元118年</Option1>
+		<Option2>公元128年</Option2>
+		<Option3>公元158年</Option3>
+		<Option4>公元188年</Option4>
+		
 	<Question>
 	<Question>
 		<QuestionID>2</QuestionID>
 		<QuestionText>曹操生於那一年?</QuestionText>
 		<Answer>3</Answer>
-		<Options>
-			<OptionID>1</OptionID>
-			<OptionText>公元118年</OptionText>
-		</Options>
-		<Options>
-			<OptionID>2</OptionID>
-			<OptionText>公元148年</OptionText>
-		</Options>
-		<Options>
-			<OptionID>3</OptionID>
-			<OptionText>公元155年</OptionText>
-		</Options>
-		<Options>
-			<OptionID>4</OptionID>
-			<OptionText>公元188年</OptionText>
+		<Option1>公元128年</Option1>
+		<Option2>公元138年</Option2>
+		<Option3>公元158年</Option3>
+		<Option4>公元168年</Option4>
 	<Question>
 </QData>
