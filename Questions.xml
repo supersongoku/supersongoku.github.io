@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<QData>
+	<NoOfQuestions>2</NoOfQuestions>
+	<Question>
+		<QuestionID>1</QuestionID>
+		<QuestionText>孫策生於那一年?</QuestionText>
+		<Answer>4</Answer>
+		<Options>
+			<OptionID>1</OptionID>
+			<OptionText>公元118年</OptionText>
+		</Options>
+		<Options>
+			<OptionID>2</OptionID>
+			<OptionText>公元128年</OptionText>
+		</Options>
+		<Options>
+			<OptionID>3</OptionID>
+			<OptionText>公元178年</OptionText>
+		</Options>
+		<Options>
+			<OptionID>4</OptionID>
+			<OptionText>公元188年</OptionText>
+	<Question>
+	<Question>
+		<QuestionID>2</QuestionID>
+		<QuestionText>曹操生於那一年?</QuestionText>
+		<Answer>3</Answer>
+		<Options>
+			<OptionID>1</OptionID>
+			<OptionText>公元118年</OptionText>
+		</Options>
+		<Options>
+			<OptionID>2</OptionID>
+			<OptionText>公元148年</OptionText>
+		</Options>
+		<Options>
+			<OptionID>3</OptionID>
+			<OptionText>公元155年</OptionText>
+		</Options>
+		<Options>
+			<OptionID>4</OptionID>
+			<OptionText>公元188年</OptionText>
+	<Question>
+</QData>
