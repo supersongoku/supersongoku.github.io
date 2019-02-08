@@ -13,14 +13,16 @@ function LoadQuestion(){
 	      url: "./Questions.xml",
 		  cache:false,
 	      dataType: "xml",
-	      success: function(xml) {
+	      success: function(xml){
 			 // count no. of questions
 			 $(xml).find('QData').each(function(){
 				noofquestions = 0;
 				$(xml).find('Question').each(function(){
 					noofquestions++;
-				);}
-			);}
+				});
+			 });
+			
+			
 			
 			// randomly select a question:
 			var selectedQID = Math.floor(Math.random() * noofquestions) + 1;
@@ -41,14 +43,13 @@ function LoadQuestion(){
 						break;
 					}
 					
-				);}
-			);} 
+				});
+			});
 			
 			//Display Question and Answer
 			$('#Question').html(wQuestionText);
 			$('#Option1').html(wOption1);
-			 
+		  }
 		});
 	});
-	}
-}
+};
