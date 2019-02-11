@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Question>
+		<QuestionID>1</QuestionID>
+		<QuestionText>孫策生於那一年?</QuestionText>
+		<Answer>4</Answer>
+		<Option1>公元118年</Option1>
+		<Option2>公元128年</Option2>
+		<Option3>公元158年</Option3>
+		<Option4>公元188年</Option4>
+	</Question>
+	<Question>
+		<QuestionID>2</QuestionID>
+		<QuestionText>曹操生於那一年?</QuestionText>
+		<Answer>3</Answer>
+		<Option1>公元128年</Option1>
+		<Option2>公元138年</Option2>
+		<Option3>公元158年</Option3>
+		<Option4>公元168年</Option4>
+	</Question>
+	<Question>
+		<QuestionID>3</QuestionID>
+		<QuestionText>一二三</QuestionText>
+		<Answer>2</Answer>
+		<Option1>A</Option1>
+		<Option2>B</Option2>
+		<Option3>C</Option3>
+		<Option4>D</Option4>
+	</Question>
+</QData>

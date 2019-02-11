@@ -1,15 +1,59 @@
 function verifyResult(pOptionID, pAnswerID, pAnswerText){
 	var result = "";
 	// check answer
-	if (pOptionID == pAnswerID){
-		$('#ResultText').html("<span style='color:yellow'>&#x7B54;&#x5C0D;&#x4E86;</span>");
-	}else{
-		$('#ResultText').html("<span style='color:#FF9999'>&#x7B54;&#x932F;&#x4E86;&#xFF0C;&#x6B63;&#x78BA;&#x7B54;&#x6848;&#x662F;     " + pAnswerText + " </span>");
+	switch (pOptionID){
+	case 1:
+		if (pOptionID == pAnswerID){
+			document.getElementById('Option1').style.backgroundColor = "green";
+		}else{
+			document.getElementById('Option1').style.backgroundColor = "red";
+		}
+		break;
+	case 2:
+		if (pOptionID == pAnswerID){
+			document.getElementById('Option2').style.backgroundColor = "green";
+		}else{
+			document.getElementById('Option2').style.backgroundColor = "red";
+		}
+		break;
+	case 3:
+		if (pOptionID == pAnswerID){
+			document.getElementById('Option3').style.backgroundColor = "green";
+		}else{
+			document.getElementById('Option3').style.backgroundColor = "red";
+		}
+		break;
+	case 4:
+		if (pOptionID == pAnswerID){
+			document.getElementById('Option4').style.backgroundColor = "green";
+		}else{
+			document.getElementById('Option4').style.backgroundColor = "red";
+		}
+		break;
 	}
 	
-	 setTimeout(function () {
-		 location.reload();
-		}, 1000);
+	if (pOptionID == pAnswerID){
+		$('#ResultText').html("<span style='color:yellow'>&#x7B54;&#x5C0D;&#x4E86;</span>");
+		document.getElementById('content').style.display = 'block';
+		document.getElementById('Option1').onclick = null;
+		document.getElementById('Option2').onclick = null;
+		document.getElementById('Option3').onclick = null;
+		document.getElementById('Option4').onclick = null;
+		 setTimeout(function () {
+			 location.reload();
+			}, 1000);
+	}else{
+		$('#ResultText').html("<span style='color:#FF0000'>&#x7B54;&#x932F;&#x4E86;&#xFF0C;&#x6B63;&#x78BA;&#x7B54;&#x6848;&#x662F;     " + pAnswerText + " </span>");
+		document.getElementById('content').style.display = 'block';
+		document.getElementById('Option1').onclick = null;
+		document.getElementById('Option2').onclick = null;
+		document.getElementById('Option3').onclick = null;
+		document.getElementById('Option4').onclick = null;
+		setTimeout(function () {
+			location.reload();
+		}, 2000);
+	}
+	
 		
 }
 
@@ -77,7 +121,7 @@ function LoadQuestion(){
 			
 			//Display Question and Answer content
 			
-			wContent = "<table style='max-width:500px;width:100%;background-color:#000000; color:#FFFFFF;padding:35px;' border='1'>"
+			wContent = "<table style='max-width:600px;width:100%;background-color:#000000; color:#FFFFFF' border='1'>"
 			wContent = wContent + "<tr>"
 			wContent = wContent + "<td colspan='2'>" + wQuestionText + "</td>"
 			wContent = wContent + "</tr>"
