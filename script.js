@@ -4,7 +4,7 @@ function verifyResult(pOptionID, pAnswerID, pAnswerText){
 	if (pOptionID == pAnswerID){
 		$('#ResultText').html("<span style='color:yellow'>&#x7B54;&#x5C0D;&#x4E86;</span>");
 	}else{
-		$('#ResultText').html("<span style='color:red'>&#x7B54;&#x932F;&#x4E86;&#xFF0C;&#x6B63;&#x78BA;&#x7B54;&#x6848;&#x662F;     " + pAnswerText + " </span>");
+		$('#ResultText').html("<span style='color:#FF5555'>&#x7B54;&#x932F;&#x4E86;&#xFF0C;&#x6B63;&#x78BA;&#x7B54;&#x6848;&#x662F;     " + pAnswerText + " </span>");
 	}
 	
 	 setTimeout(function () {
