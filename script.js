@@ -77,7 +77,7 @@ function LoadQuestion(){
 			
 			//Display Question and Answer content
 			
-			wContent = "<table style='max-width:500px;width:100%;background-color:#000000; color:#FFFFFF' border='1'>"
+			wContent = "<table style='max-width:500px;width:100%;background-color:#000000; color:#FFFFFF;padding:35px;' border='1'>"
 			wContent = wContent + "<tr>"
 			wContent = wContent + "<td colspan='2'>" + wQuestionText + "</td>"
 			wContent = wContent + "</tr>"
