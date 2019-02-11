@@ -10,7 +10,7 @@
 		<Option3>公元158年</Option3>
 		<Option4>公元188年</Option4>
 		
-	<Question>
+	</Question>
 	<Question>
 		<QuestionID>2</QuestionID>
 		<QuestionText>曹操生於那一年?</QuestionText>
@@ -19,5 +19,5 @@
 		<Option2>公元138年</Option2>
 		<Option3>公元158年</Option3>
 		<Option4>公元168年</Option4>
-	<Question>
+	</Question>
 </QData>
