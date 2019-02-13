@@ -1,23 +1,39 @@
-<?xml version='1.0' encoding='UTF-8'?>
-
-<QData> 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Question>
 		<QuestionID>1</QuestionID>
-		<QuestionText>孫策生於那一年?</QuestionText>
-		<Answer>4</Answer>
-		<Option1>公元118年</Option1>
-		<Option2>公元128年</Option2>
-		<Option3>公元158年</Option3>
-		<Option4>公元188年</Option4>
-		
+		<QuestionText>"地公將軍"是指誰?</QuestionText>
+		<Answer>3</Answer>
+		<Option1>張角</Option1>
+		<Option2>張梁</Option2>
+		<Option3>張寶</Option3>
+		<Option4>盧植</Option4>
 	</Question>
 	<Question>
 		<QuestionID>2</QuestionID>
-		<QuestionText>曹操生於那一年?</QuestionText>
-		<Answer>3</Answer>
-		<Option1>公元128年</Option1>
-		<Option2>公元138年</Option2>
-		<Option3>公元158年</Option3>
-		<Option4>公元168年</Option4>
+		<QuestionText>"百步穿楊"描述的是哪位武將?</QuestionText>
+		<Answer>4</Answer>
+		<Option1>孟獲</Option1>
+		<Option2>劉備</Option2>
+		<Option3>曹操</Option3>
+		<Option4>黃忠</Option4>
+	</Question>
+	<Question>
+		<QuestionID>3</QuestionID>
+		<QuestionText>孫策出生在哪一年?</QuestionText>
+		<Answer>4</Answer>
+		<Option1>西元152</Option1>
+		<Option2>西元162</Option2>
+		<Option3>西元172</Option3>
+		<Option4>西元182</Option4>
+	</Question>
+	<Question>
+		<QuestionID>4</QuestionID>
+		<QuestionText>《三國演義》中，"空城計"出自何人之手?</QuestionText>
+		<Answer>1</Answer>
+		<Option1>諸葛亮</Option1>
+		<Option2>曹操</Option2>
+		<Option3>龐統</Option3>
+		<Option4>郭嘉</Option4>
 	</Question>
 </QData>
