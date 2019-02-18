@@ -2,24 +2,6 @@
 <QData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Question>
 		<QuestionID>1</QuestionID>
-		<QuestionText>"地公將軍"是指誰?</QuestionText>
-		<Answer>3</Answer>
-		<Option1>張角</Option1>
-		<Option2>張梁</Option2>
-		<Option3>張寶</Option3>
-		<Option4>盧植</Option4>
-	</Question>
-	<Question>
-		<QuestionID>2</QuestionID>
-		<QuestionText>"百步穿楊"描述的是哪位武將?</QuestionText>
-		<Answer>4</Answer>
-		<Option1>孟獲</Option1>
-		<Option2>劉備</Option2>
-		<Option3>曹操</Option3>
-		<Option4>黃忠</Option4>
-	</Question>
-	<Question>
-		<QuestionID>3</QuestionID>
 		<QuestionText>孫權出生在哪一年?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>西元152</Option1>
@@ -28,16 +10,7 @@
 		<Option4>西元182</Option4>
 	</Question>
 	<Question>
-		<QuestionID>4</QuestionID>
-		<QuestionText>《三國演義》中，"空城計"出自何人之手?</QuestionText>
-		<Answer>1</Answer>
-		<Option1>諸葛亮</Option1>
-		<Option2>曹操</Option2>
-		<Option3>龐統</Option3>
-		<Option4>郭嘉</Option4>
-	</Question>
-	<Question>
-		<QuestionID>5</QuestionID>
+		<QuestionID>2</QuestionID>
 		<QuestionText>三國名駒"的盧"是誰的坐騎?</QuestionText>
 		<Answer>2</Answer>
 		<Option1>關羽</Option1>
@@ -46,7 +19,7 @@
 		<Option4>曹操</Option4>
 	</Question>
 	<Question>
-		<QuestionID>6</QuestionID>
+		<QuestionID>3</QuestionID>
 		<QuestionText>被曹操稱為"吾家千里駒"的是以下哪一個人?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>曹真</Option1>
@@ -55,7 +28,7 @@
 		<Option4>曹休</Option4>
 	</Question>
 	<Question>
-		<QuestionID>7</QuestionID>
+		<QuestionID>4</QuestionID>
 		<QuestionText>誰對呂蒙有士別三日，刮目相看的評價？</QuestionText>
 		<Answer>4</Answer>
 		<Option1>孫權</Option1>
@@ -64,7 +37,7 @@
 		<Option4>魯粛</Option4>
 	</Question>
 	<Question>
-		<QuestionID>8</QuestionID>
+		<QuestionID>5</QuestionID>
 		<QuestionText>孫策出生在哪一年?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>西元145</Option1>
@@ -73,61 +46,7 @@
 		<Option4>西元175</Option4>
 	</Question>
 	<Question>
-		<QuestionID>9</QuestionID>
-		<QuestionText>馬超的坐騎是下面哪一匹?</QuestionText>
-		<Answer>4</Answer>
-		<Option1>灰影</Option1>
-		<Option2>白雪</Option2>
-		<Option3>奔雷</Option3>
-		<Option4>裡飛沙</Option4>
-	</Question>
-	<Question>
-		<QuestionID>10</QuestionID>
-		<QuestionText>劉備剛出道從事的工作是什麼?</QuestionText>
-		<Answer>4</Answer>
-		<Option1>打鐵</Option1>
-		<Option2>放牛</Option2>
-		<Option3>說書</Option3>
-		<Option4>編草鞋</Option4>
-	</Question>
-	<Question>
-		<QuestionID>11</QuestionID>
-		<QuestionText>"倚天劍"是誰的武器?</QuestionText>
-		<Answer>1</Answer>
-		<Option1>曹操</Option1>
-		<Option2>司馬懿</Option2>
-		<Option3>趙雲</Option3>
-		<Option4>夏侯惇</Option4>
-	</Question>
-	<Question>
-		<QuestionID>12</QuestionID>
-		<QuestionText>《三國志》的作者是誰?</QuestionText>
-		<Answer>2</Answer>
-		<Option1>曹雪芹</Option1>
-		<Option2>陳壽</Option2>
-		<Option3>羅貫中</Option3>
-		<Option4>金庸</Option4>
-	</Question>
-	<Question>
-		<QuestionID>13</QuestionID>
-		<QuestionText>《三國演義》中，在長板坡被張飛怒吼一聲而嚇得墜馬的是?</QuestionText>
-		<Answer>4</Answer>
-		<Option1>夏侯霸</Option1>
-		<Option2>夏侯尚</Option2>
-		<Option3>夏侯楙</Option3>
-		<Option4>夏侯傑</Option4>
-	</Question>
-	<Question>
-		<QuestionID>14</QuestionID>
-		<QuestionText>曾有"百騎劫魏營的武將是?</QuestionText>
-		<Answer>4</Answer>
-		<Option1>趙雲</Option1>
-		<Option2>黃蓋</Option2>
-		<Option3>關羽</Option3>
-		<Option4>甘寧</Option4>
-	</Question>
-	<Question>
-		<QuestionID>15</QuestionID>
+		<QuestionID>6</QuestionID>
 		<QuestionText>司馬懿誅殺誰之後, 掌握了魏國的軍政大權?</QuestionText>
 		<Answer>3</Answer>
 		<Option1>曹彰</Option1>
@@ -136,25 +55,7 @@
 		<Option4>曹松</Option4>
 	</Question>
 	<Question>
-		<QuestionID>16</QuestionID>
-		<QuestionText>陸遜的兒子是下面哪一位?</QuestionText>
-		<Answer>4</Answer>
-		<Option1>陸機</Option1>
-		<Option2>陸雲</Option2>
-		<Option3>陸績</Option3>
-		<Option4>陸抗</Option4>
-	</Question>
-	<Question>
-		<QuestionID>17</QuestionID>
-		<QuestionText>以下誰是"河北雙雄"中的一員?</QuestionText>
-		<Answer>4</Answer>
-		<Option1>文欽</Option1>
-		<Option2>文鴦</Option2>
-		<Option3>顏真卿</Option3>
-		<Option4>顏良</Option4>
-	</Question>
-	<Question>
-		<QuestionID>18</QuestionID>
+		<QuestionID>7</QuestionID>
 		<QuestionText>孫魯班的第一任丈夫是?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>全琮</Option1>
@@ -163,7 +64,7 @@
 		<Option4>周循</Option4>
 	</Question>
 	<Question>
-		<QuestionID>19</QuestionID>
+		<QuestionID>8</QuestionID>
 		<QuestionText>張遼字什麼?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>子仲</Option1>
@@ -172,7 +73,7 @@
 		<Option4>文遠</Option4>
 	</Question>
 	<Question>
-		<QuestionID>20</QuestionID>
+		<QuestionID>9</QuestionID>
 		<QuestionText>下面關於青龍偃月刀哪一項說法是錯誤的?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>刀成之初曾染過青龍血</Option1>
@@ -181,7 +82,7 @@
 		<Option4>精鋼鑄做</Option4>
 	</Question>
 	<Question>
-		<QuestionID>21</QuestionID>
+		<QuestionID>10</QuestionID>
 		<QuestionText>三國名駒"爪黃飛電"是誰的坐騎?</QuestionText>
 		<Answer>1</Answer>
 		<Option1>曹操</Option1>
@@ -190,7 +91,7 @@
 		<Option4>孫權</Option4>
 	</Question>
 	<Question>
-		<QuestionID>22</QuestionID>
+		<QuestionID>11</QuestionID>
 		<QuestionText>三國演義中, 十勝十敗論是誰提出的?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>荀彧</Option1>
@@ -199,16 +100,16 @@
 		<Option4>郭嘉</Option4>
 	</Question>
 	<Question>
-		<QuestionID>23</QuestionID>
+		<QuestionID>12</QuestionID>
 		<QuestionText>孫權於何年接受魏國的冊封, 成為吳王</QuestionText>
-		<Answer>4</Answer>
+		<Answer>1</Answer>
 		<Option1>西元222年</Option1>
 		<Option2>西元221年</Option2>
 		<Option3>西元223年</Option3>
 		<Option4>西元220年</Option4>
 	</Question>
 	<Question>
-		<QuestionID>24</QuestionID>
+		<QuestionID>13</QuestionID>
 		<QuestionText>劉備出生在哪一年?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>西元131</Option1>
@@ -217,7 +118,7 @@
 		<Option4>西元161</Option4>
 	</Question>
 	<Question>
-		<QuestionID>25</QuestionID>
+		<QuestionID>14</QuestionID>
 		<QuestionText>劉備入蜀後娶了誰的妹妹?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>吳班</Option1>
@@ -226,7 +127,7 @@
 		<Option4>吳懿</Option4>
 	</Question>
 	<Question>
-		<QuestionID>26</QuestionID>
+		<QuestionID>15</QuestionID>
 		<QuestionText>三國中何人在戰場上殺了淩統的父親?</QuestionText>
 		<Answer>1</Answer>
 		<Option1>甘寜</Option1>
@@ -235,7 +136,7 @@
 		<Option4>關索</Option4>
 	</Question>
 	<Question>
-		<QuestionID>27</QuestionID>
+		<QuestionID>16</QuestionID>
 		<QuestionText>曹操於那場戰役中擊敗了袁譚?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>毛城之戰</Option1>
@@ -244,7 +145,7 @@
 		<Option4>南皮之戰</Option4>
 	</Question>
 	<Question>
-		<QuestionID>28</QuestionID>
+		<QuestionID>17</QuestionID>
 		<QuestionText>以下不屬於魏國"五子良將"的武將是?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>樂進</Option1>
@@ -253,7 +154,7 @@
 		<Option4>夏侯惇</Option4>
 	</Question>
 	<Question>
-		<QuestionID>29</QuestionID>
+		<QuestionID>18</QuestionID>
 		<QuestionText>三國志中, 四勝四敗論是誰提出的?</QuestionText>
 		<Answer>1</Answer>
 		<Option1>荀彧</Option1>
@@ -262,7 +163,7 @@
 		<Option4>郭嘉</Option4>
 	</Question>
 	<Question>
-		<QuestionID>30</QuestionID>
+		<QuestionID>19</QuestionID>
 		<QuestionText>劉備死時的年齡是多少?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>64</Option1>
@@ -271,7 +172,7 @@
 		<Option4>63</Option4>
 	</Question>
 	<Question>
-		<QuestionID>31</QuestionID>
+		<QuestionID>20</QuestionID>
 		<QuestionText>曹操於那場戰役中擊敗了尹楷?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>南皮之戰</Option1>
@@ -280,7 +181,7 @@
 		<Option4>毛城之戰</Option4>
 	</Question>
 	<Question>
-		<QuestionID>32</QuestionID>
+		<QuestionID>21</QuestionID>
 		<QuestionText>劉禪的母親是誰 ?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>糜夫人</Option1>
@@ -289,7 +190,7 @@
 		<Option4>甘夫人</Option4>
 	</Question>
 	<Question>
-		<QuestionID>33</QuestionID>
+		<QuestionID>22</QuestionID>
 		<QuestionText>"威震逍遙津"描述的是位五子良將的事蹟?</QuestionText>
 		<Answer>1</Answer>
 		<Option1>張遼</Option1>
@@ -298,7 +199,7 @@
 		<Option4>樂進</Option4>
 	</Question>
 	<Question>
-		<QuestionID>34</QuestionID>
+		<QuestionID>23</QuestionID>
 		<QuestionText>誰最後統一了三國</QuestionText>
 		<Answer>1</Answer>
 		<Option1>司馬炎</Option1>
@@ -307,7 +208,7 @@
 		<Option4>司馬師</Option4>
 	</Question>
 	<Question>
-		<QuestionID>35</QuestionID>
+		<QuestionID>24</QuestionID>
 		<QuestionText>向曹操獻"二虎競食"及"驅虎吞狼"之計的是誰?</QuestionText>
 		<Answer>1</Answer>
 		<Option1>荀彧</Option1>
@@ -316,7 +217,7 @@
 		<Option4>賈詡</Option4>
 	</Question>
 	<Question>
-		<QuestionID>36</QuestionID>
+		<QuestionID>25</QuestionID>
 		<QuestionText>以下不屬於魏國"五子良將"的武將是?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>于禁</Option1>
@@ -325,7 +226,7 @@
 		<Option4>典韋</Option4>
 	</Question>
 	<Question>
-		<QuestionID>37</QuestionID>
+		<QuestionID>26</QuestionID>
 		<QuestionText>魏國的末代皇帝是?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>曹睿</Option1>
@@ -334,7 +235,7 @@
 		<Option4>曹奐</Option4>
 	</Question>
 	<Question>
-		<QuestionID>38</QuestionID>
+		<QuestionID>27</QuestionID>
 		<QuestionText>曹操出生在哪一年?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>西元125</Option1>
@@ -343,12 +244,282 @@
 		<Option4>西元155</Option4>
 	</Question>
 	<Question>
-		<QuestionID>39</QuestionID>
+		<QuestionID>28</QuestionID>
 		<QuestionText>七星寶刀原為何人所有?</QuestionText>
 		<Answer>4</Answer>
 		<Option1>曹操</Option1>
 		<Option2>呂布</Option2>
 		<Option3>董卓</Option3>
 		<Option4>王允</Option4>
+	</Question>
+	<Question>
+		<QuestionID>29</QuestionID>
+		<QuestionText>漢靈帝末年, 在西州與邊章、韓遂等一同舉兵起事的是誰?</QuestionText>
+		<Answer>1</Answer>
+		<Option1>馬騰</Option1>
+		<Option2>馬超</Option2>
+		<Option3>公孫瓚</Option3>
+		<Option4>袁紹</Option4>
+	</Question>
+	<Question>
+		<QuestionID>30</QuestionID>
+		<QuestionText>張寶被劉備射中何部位?</QuestionText>
+		<Answer>1</Answer>
+		<Option1>左臂</Option1>
+		<Option2>左背</Option2>
+		<Option3>左肩</Option3>
+		<Option4>左腿</Option4>
+	</Question>
+	<Question>
+		<QuestionID>31</QuestionID>
+		<QuestionText>劉關張出道後殺死的第一個副將是誰?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>程遠志</Option1>
+		<Option2>鄧茂</Option2>
+		<Option3>孫仲</Option3>
+		<Option4>許韶</Option4>
+	</Question>
+	<Question>
+		<QuestionID>32</QuestionID>
+		<QuestionText>關羽是哪裡人?</QuestionText>
+		<Answer>4</Answer>
+		<Option1>河東郡安邑人</Option1>
+		<Option2>河東郡聞喜人</Option2>
+		<Option3>河東郡猗氏人</Option3>
+		<Option4>河東郡解懸人</Option4>
+	</Question>
+	<Question>
+		<QuestionID>33</QuestionID>
+		<QuestionText>關羽原來的字是什麼?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>雲長</Option1>
+		<Option2>長生</Option2>
+		<Option3>漢升</Option3>
+		<Option4>孟起</Option4>
+	</Question>
+	<Question>
+		<QuestionID>34</QuestionID>
+		<QuestionText>因迎奉漢靈帝之功, 被封為長安鄉侯的以下哪一位宦官?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>張讓</Option1>
+		<Option2>曹節</Option2>
+		<Option3>趙忠</Option3>
+		<Option4>郭勝</Option4>
+	</Question>
+	<Question>
+		<QuestionID>35</QuestionID>
+		<QuestionText>曹仁率兵攻打新野擺出以下哪個陣法, 被徐庶識破, 大敗?</QuestionText>
+		<Answer>3</Answer>
+		<Option1>一字長蛇陣</Option1>
+		<Option2>奇門遁甲陣</Option2>
+		<Option3>八門金鎖陣</Option3>
+		<Option4>地黃八幡陣</Option4>
+	</Question>
+	<Question>
+		<QuestionID>36</QuestionID>
+		<QuestionText>建安二十四年, 曹操因為哪位大將的威脅, 而有了"徙許都以避其銳"的打算?</QuestionText>
+		<Answer>1</Answer>
+		<Option1>關羽</Option1>
+		<Option2>趙雲</Option2>
+		<Option3>周瑜</Option3>
+		<Option4>陸遜</Option4>
+	</Question>
+	<Question>
+		<QuestionID>37</QuestionID>
+		<QuestionText>曹操曾帶刀闖入十常侍中誰的府邸?</QuestionText>
+		<Answer>1</Answer>
+		<Option1>張讓</Option1>
+		<Option2>趙忠</Option2>
+		<Option3>夏惲</Option3>
+		<Option4>郭勝</Option4>
+	</Question>
+	<Question>
+		<QuestionID>38</QuestionID>
+		<QuestionText>下列武將中, 在《三國演義》和《三國志》中所記之字不同的是?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>關羽</Option1>
+		<Option2>張飛</Option2>
+		<Option3>孫堅</Option3>
+		<Option4>黃忠</Option4>
+	</Question>
+	<Question>
+		<QuestionID>39</QuestionID>
+		<QuestionText>曹操的祖父是宦官出身, 名叫什麼?</QuestionText>
+		<Answer>3</Answer>
+		<Option1>曹謄</Option1>
+		<Option2>曹滕</Option2>
+		<Option3>曹騰</Option3>
+		<Option4>曹藤</Option4>
+	</Question>
+	<Question>
+		<QuestionID>40</QuestionID>
+		<QuestionText>何年董卓入洛陽?</QuestionText>
+		<Answer>4</Answer>
+		<Option1>187</Option1>
+		<Option2>192</Option2>
+		<Option3>194</Option3>
+		<Option4>189</Option4>
+	</Question>
+	<Question>
+		<QuestionID>41</QuestionID>
+		<QuestionText>曹操是於何時中作《觀滄海》?</QuestionText>
+		<Answer>4</Answer>
+		<Option1>208</Option1>
+		<Option2>209</Option2>
+		<Option3>210</Option3>
+		<Option4>207</Option4>
+	</Question>
+	<Question>
+		<QuestionID>42</QuestionID>
+		<QuestionText>荀彧、荀攸叔侄給曹操講述天下三"力", 是下面哪三個?</QuestionText>
+		<Answer>4</Answer>
+		<Option1>天力、地力、人力</Option1>
+		<Option2>武力、智力、天子之力</Option2>
+		<Option3>天力、地力、天子之力</Option3>
+		<Option4>武力、智力、魅力</Option4>
+	</Question>
+	<Question>
+		<QuestionID>43</QuestionID>
+		<QuestionText>姜維與鐘會密謀反叛被告發, 最終被誰率兵剿滅?</QuestionText>
+		<Answer>3</Answer>
+		<Option1>文鴦</Option1>
+		<Option2>吳班</Option2>
+		<Option3>衛灌</Option3>
+		<Option4>郤正</Option4>
+	</Question>
+	<Question>
+		<QuestionID>44</QuestionID>
+		<QuestionText>南蠻第一智者是以下哪一位?</QuestionText>
+		<Answer>3</Answer>
+		<Option1>董荼那</Option1>
+		<Option2>金環三結</Option2>
+		<Option3>朵思大王</Option3>
+		<Option4>帶來洞主</Option4>
+	</Question>
+	<Question>
+		<QuestionID>45</QuestionID>
+		<QuestionText>關羽的美髯有多長?</QuestionText>
+		<Answer>3</Answer>
+		<Option1>一尺</Option1>
+		<Option2>一尺八寸</Option2>
+		<Option3>二尺</Option3>
+		<Option4>二尺五寸</Option4>
+	</Question>
+	<Question>
+		<QuestionID>46</QuestionID>
+		<QuestionText>以下那個不是三國演義書中所提到的特殊兵種?</QuestionText>
+		<Answer>1</Answer>
+		<Option1>虎豹騎</Option1>
+		<Option2>藤甲兵</Option2>
+		<Option3>連弩兵</Option3>
+		<Option4>大象兵</Option4>
+	</Question>
+	<Question>
+		<QuestionID>47</QuestionID>
+		<QuestionText>最早預言曹操"將來能安天下"的是誰?</QuestionText>
+		<Answer>3</Answer>
+		<Option1>曹操叔父</Option1>
+		<Option2>曹嵩</Option2>
+		<Option3>何顒</Option3>
+		<Option4>許劭</Option4>
+	</Question>
+	<Question>
+		<QuestionID>48</QuestionID>
+		<QuestionText>劉備十五歲時外出游學, 曾拜在誰門下?</QuestionText>
+		<Answer>1</Answer>
+		<Option1>盧植</Option1>
+		<Option2>鄭玄</Option2>
+		<Option3>管寜</Option3>
+		<Option4>華歆</Option4>
+	</Question>
+	<Question>
+		<QuestionID>49</QuestionID>
+		<QuestionText>《三國演義》中, 誰"賠了夫人又折兵"?</QuestionText>
+		<Answer>1</Answer>
+		<Option1>周瑜</Option1>
+		<Option2>孫尚香</Option2>
+		<Option3>孫策</Option3>
+		<Option4>黃蓋</Option4>
+	</Question>
+	<Question>
+		<QuestionID>50</QuestionID>
+		<QuestionText>直言曹操是"治世之能臣, 亂世之姦雄"的是誰?</QuestionText>
+		<Answer>4</Answer>
+		<Option1>曹嵩</Option1>
+		<Option2>橋玄</Option2>
+		<Option3>何顒</Option3>
+		<Option4>許劭</Option4>
+	</Question>
+	<Question>
+		<QuestionID>51</QuestionID>
+		<QuestionText>"吉利"是誰的小名?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>劉備</Option1>
+		<Option2>曹操</Option2>
+		<Option3>孫策</Option3>
+		<Option4>公孫瓚</Option4>
+	</Question>
+	<Question>
+		<QuestionID>52</QuestionID>
+		<QuestionText>蘇東坡詞念奴嬌中"羽扇綸巾, 談笑間, 檣櫓灰飛煙滅。"指的是誰?</QuestionText>
+		<Answer>4</Answer>
+		<Option1>諸葛亮</Option1>
+		<Option2>郭嘉</Option2>
+		<Option3>司馬懿</Option3>
+		<Option4>周瑜</Option4>
+	</Question>
+	<Question>
+		<QuestionID>53</QuestionID>
+		<QuestionText>程畿的字是什麼?</QuestionText>
+		<Answer>4</Answer>
+		<Option1>公弘</Option1>
+		<Option2>文進</Option2>
+		<Option3>南和</Option3>
+		<Option4>季然</Option4>
+	</Question>
+	<Question>
+		<QuestionID>54</QuestionID>
+		<QuestionText>諸葛亮躬耕田畝之時, 常常以誰自比?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>管仲、鮑叔</Option1>
+		<Option2>管仲、樂毅</Option2>
+		<Option3>百裡奚、樂毅</Option3>
+		<Option4>伊尹、百裡奚</Option4>
+	</Question>
+	<Question>
+		<QuestionID>55</QuestionID>
+		<QuestionText>袁紹被眾人推選為討伐軍盟主, 誰請纓當先鋒?</QuestionText>
+		<Answer>3</Answer>
+		<Option1>劉備</Option1>
+		<Option2>曹操</Option2>
+		<Option3>孫堅</Option3>
+		<Option4>袁術</Option4>
+	</Question>
+	<Question>
+		<QuestionID>56</QuestionID>
+		<QuestionText>"人情勢利古猶今, 誰識英雄是白身"這句話指的是誰?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>曹操</Option1>
+		<Option2>劉備</Option2>
+		<Option3>孫堅</Option3>
+		<Option4>孫策</Option4>
+	</Question>
+	<Question>
+		<QuestionID>57</QuestionID>
+		<QuestionText>諸葛亮和諸葛恪是什麼關係?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>父子</Option1>
+		<Option2>叔侄</Option2>
+		<Option3>兄弟</Option3>
+		<Option4>祖孫</Option4>
+	</Question>
+	<Question>
+		<QuestionID>58</QuestionID>
+		<QuestionText>家住樓桑村的是誰?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>劉焉</Option1>
+		<Option2>劉備</Option2>
+		<Option3>關羽</Option3>
+		<Option4>張飛</Option4>
 	</Question>
 </QData>
