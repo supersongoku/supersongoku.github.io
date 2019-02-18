@@ -21,7 +21,7 @@ function verifyResult(pOptionID, pAnswerID, pAnswerText){
 		 setTimeout(function () {
 			 //location.reload();
 			 LoadQuestion();
-			}, 500);
+			}, 200);
 	}else{
 		$('#ResultText').html("<span style='color:#FF0000'>&#x7B54;&#x932F;&#x4E86;&#xFF0C;&#x6B63;&#x78BA;&#x7B54;&#x6848;&#x662F;     " + pAnswerText + " </span>");
 		document.getElementById('content').style.display = 'block';
