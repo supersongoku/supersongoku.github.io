@@ -372,7 +372,7 @@
 	<Question>
 		<QuestionID>42</QuestionID>
 		<QuestionText>荀彧、荀攸叔侄給曹操講述天下三"力", 是下面哪三個?</QuestionText>
-		<Answer>4</Answer>
+		<Answer>2</Answer>
 		<Option1>天力、地力、人力</Option1>
 		<Option2>武力、智力、天子之力</Option2>
 		<Option3>天力、地力、天子之力</Option3>
@@ -521,5 +521,41 @@
 		<Option2>劉備</Option2>
 		<Option3>關羽</Option3>
 		<Option4>張飛</Option4>
+	</Question>
+	<Question>
+		<QuestionID>59</QuestionID>
+		<QuestionText>馬騰曾被朝廷授予什麼官職?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>鎮西將軍</Option1>
+		<Option2>徵西將軍</Option2>
+		<Option3>鎮東將軍</Option3>
+		<Option4>徵東將軍</Option4>
+	</Question>
+	<Question>
+		<QuestionID>60</QuestionID>
+		<QuestionText>蘇雙、張世平兩人是從事什職業的?</QuestionText>
+		<Answer>3</Answer>
+		<Option1>賣酒</Option1>
+		<Option2>打鐵匠</Option2>
+		<Option3>販馬</Option3>
+		<Option4>屠夫</Option4>
+	</Question>
+	<Question>
+		<QuestionID>61</QuestionID>
+		<QuestionText>虎牢關戰役登場時, 孫堅頭戴著的是?</QuestionText>
+		<Answer>1</Answer>
+		<Option1>紅色的頭巾</Option1>
+		<Option2>黃色的頭巾</Option2>
+		<Option3>紫色的頭巾</Option3>
+		<Option4>藍色的頭巾</Option4>
+	</Question>
+	<Question>
+		<QuestionID>62</QuestionID>
+		<QuestionText>劉焉發榜招軍時, 劉備多少歲?</QuestionText>
+		<Answer>2</Answer>
+		<Option1>十八歲</Option1>
+		<Option2>二十八歲</Option2>
+		<Option3>三十六歲</Option3>
+		<Option4>四十二歲</Option4>
 	</Question>
 </QData>
