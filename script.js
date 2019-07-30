@@ -6,7 +6,7 @@ function verifyResult(pOptionID, pAnswerID, pAnswerText){
 		document.getElementById('Option' + pOptionID).style.backgroundColor = "green";
 	}else{
 		document.getElementById('Option' + pOptionID).style.backgroundColor = "red";
-		document.getElementById('Option' + pAnswerID).style.backgroundColor = "green";
+		document.getElementById('Option' + pAnswerID).style.backgroundColor = "#00ff00";
 		document.getElementById('Option' + pAnswerID).style.color = "white";
 	}
 	
