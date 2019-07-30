@@ -7,7 +7,7 @@ function verifyResult(pOptionID, pAnswerID, pAnswerText){
 	}else{
 		document.getElementById('Option' + pOptionID).style.backgroundColor = "red";
 		document.getElementById('Option' + pAnswerID).style.backgroundColor = "lime";
-		document.getElementById('Option' + pAnswerID).style.color = "white";
+		document.getElementById('Option' + pAnswerID).style.color = "black";
 	}
 	
 	if (pOptionID == pAnswerID){
