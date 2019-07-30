@@ -5,9 +5,9 @@ function verifyResult(pOptionID, pAnswerID, pAnswerText){
 	if (pOptionID == pAnswerID){
 		document.getElementById('Option' + pOptionID).style.backgroundColor = "green";
 	}else{
-		document.getElementById('Option' + pOptionID).style.backgroundColor = "red";
-		document.getElementById('Option' + pAnswerID).style.backgroundColor = "lime";
-		document.getElementById('Option' + pAnswerID).style.color = "black";
+		document.getElementById('Option' + pOptionID).style.backgroundColor = "darkred";
+		document.getElementById('Option' + pAnswerID).style.backgroundColor = "limegreen";
+		document.getElementById('Option' + pAnswerID).style.color = "white";
 	}
 	
 	if (pOptionID == pAnswerID){
