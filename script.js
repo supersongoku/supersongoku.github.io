@@ -6,8 +6,8 @@ function verifyResult(pOptionID, pAnswerID, pAnswerText){
 		document.getElementById('Option' + pOptionID).style.backgroundColor = "green";
 	}else{
 		document.getElementById('Option' + pOptionID).style.backgroundColor = "red";
-		document.getElementById('Option' + pAnswerID).style.backgroundColor = "yellow";
-		document.getElementById('Option' + pAnswerID).style.color = "red";
+		document.getElementById('Option' + pAnswerID).style.backgroundColor = "green";
+		document.getElementById('Option' + pAnswerID).style.color = "white";
 	}
 	
 	if (pOptionID == pAnswerID){
