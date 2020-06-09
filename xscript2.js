@@ -1,14 +1,7 @@
-function clearAllTimeout(){
-	var id = window.setTimeout(function() {}, 0);
-
-	while (id--) {
-		window.clearTimeout(id); // will do nothing if no timeout with id is present
-	}
-}
 function verifyResult(pOptionID, pAnswerID, pAnswerText){
 	var result = "";
 	// check answer
-	clearAllTimeout();
+	
 	if (pOptionID == pAnswerID){
 		document.getElementById('Option' + pOptionID).style.backgroundColor = "green";
 	}else{
@@ -49,13 +42,10 @@ function LoadQuestion(){
 	var noofquestions = 0;
 	/* Get question from xml  */
 	//alert(noofquestions);
-	var timeOut1;
-	var timeOut2;
-	var timeOut3;
     $(document).ready(function(){
 	    $.ajax({
 	      type: "GET",
-	      url: "questions2.xml",
+	      url: "questions.xml",
 		  cache:false,
 	      dataType: "xml",
 	      success: function(xml){
@@ -76,23 +66,12 @@ function LoadQuestion(){
 			var wOption3 = "";
 			var wOption4 = "";
 			var wAnswerText = "";
-			var wQuestionType = "1";
-			var wHint1 = "";
-			var wHint2 = "";
-			var wHint3 = "";
-			
 			// get selected question, answer and options
 			$(xml).find('QData').each(function(){
 				$(xml).find('Question').each(function(){
 					var questionID = $(this).find('QuestionID').text();
 					if (Number(questionID) == selectedQID){
 						wQuestionText = $(this).find('QuestionText').text();
-						wQuestionType = $(this).find('QuestionType').text();
-						if (wQuestionType=="2"){
-							wHint1 = $(this).find('Hint1').text();
-							wHint2 = $(this).find('Hint2').text();
-							wHint3 = $(this).find('Hint3').text();
-						}
 						wOption1 = $(this).find('Option1').text();
 						wOption2 = $(this).find('Option2').text();
 						wOption3 = $(this).find('Option3').text();
@@ -127,10 +106,6 @@ function LoadQuestion(){
 			wContent = wContent + "<tr>"
 			wContent = wContent + "<td colspan='2'>" + wQuestionText + "</td>"
 			wContent = wContent + "</tr>"
-			if (wQuestionType=="2"){
-				wContent = wContent + "<tr><td style='text-align:left;' class='H1' colspan='2'></td></tr>"
-			}
-			
 			wContent = wContent + "<tr>"
 			wContent = wContent + "<td width=50% id='Option1' onclick='verifyResult(1," + wAnswer + ", \&quot;" + wAnswerText + "\&quot;)'><div>" + wOption1 + "</div></td>"
 			wContent = wContent + "<td width=50% id='Option2' onclick='verifyResult(2," + wAnswer + ", \&quot;" + wAnswerText + "\&quot;)'><div>" + wOption2 + "</div></td>"
@@ -145,10 +120,7 @@ function LoadQuestion(){
 			wContent = wContent + "</table>"
 
 		$('#content').html(wContent);
-			//$('.H1').html = "";
-			timeOut1 = setTimeout(function(){ $('.H1').append('提示一:  ' + wHint1); }, 1000);
-			timeOut2 = setTimeout(function(){ $('.H1').append("<br>" + '提示二:  ' + wHint2 ); }, 3000);
-			timeOut3 = setTimeout(function(){ $('.H1').append("<br>" + '提示三:  ' + wHint3); }, 5000);
+
 			
 			
 			
