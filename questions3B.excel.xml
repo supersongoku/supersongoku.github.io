@@ -1,0 +1,1891 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>HaDao</Author>
+  <LastAuthor>Windows 使用者</LastAuthor>
+  <Created>2020-07-06T01:05:29Z</Created>
+  <LastSaved>2020-07-06T01:31:28Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12570</WindowHeight>
+  <WindowWidth>27795</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>120</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <FutureVer>11</FutureVer>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="新細明體" x:CharSet="136" x:Family="Roman" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="130" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15.75">
+   <Column ss:Width="78.75"/>
+   <Column ss:Width="92.25"/>
+   <Column ss:Width="411.75"/>
+   <Column ss:Width="79.5"/>
+   <Column ss:Width="66.75"/>
+   <Column ss:Width="79.5"/>
+   <Column ss:Width="57.75"/>
+   <Column ss:Width="129.75" ss:Span="2"/>
+   <Column ss:Index="11" ss:Width="105"/>
+   <Row>
+    <Cell><Data ss:Type="String">QuestionID</Data></Cell>
+    <Cell><Data ss:Type="String">QuestionType</Data></Cell>
+    <Cell><Data ss:Type="String">QuestionText</Data></Cell>
+    <Cell><Data ss:Type="String">Hint1</Data></Cell>
+    <Cell><Data ss:Type="String">Hint2</Data></Cell>
+    <Cell><Data ss:Type="String">Hint3</Data></Cell>
+    <Cell><Data ss:Type="String">Answer</Data></Cell>
+    <Cell><Data ss:Type="String">Option1</Data></Cell>
+    <Cell><Data ss:Type="String">Option2</Data></Cell>
+    <Cell><Data ss:Type="String">Option3</Data></Cell>
+    <Cell><Data ss:Type="String">Option4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">戰役</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">蜀吳</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">赤壁之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">夷陵之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">討董之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">官渡之戰</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">火燒</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">赤壁</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">東吳四傑</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">陸遜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">呂蒙</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周瑜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">魯肅</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">抗擊魏國</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">獨斷專權</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">東吳重臣</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">文鴦</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">陸抗</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛誔</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛恪</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">吳國</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">逍遙津之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">武力很高</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">凌統</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張遼</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">甘寜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">赤壁之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">苦肉計</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">智力很高</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周瑜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃蓋</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">郭嘉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">被曹操稱為&quot;吾家千里駒&quot;的是以下哪一個人?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹真</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹仁</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹洪</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹休</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">赤壁之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">苦肉計</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">武力很高</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周瑜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃蓋</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">郭嘉</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權出生在哪一年?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元152</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元162</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元172</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元182</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三國名駒&quot;的盧&quot;是誰的坐騎?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">誰對呂蒙有士別三日，刮目相看的評價？</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周瑜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張昭</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">魯粛</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫策出生在哪一年?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元145</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元155</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元165</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元175</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬懿誅殺誰之後, 掌握了魏國的軍政大權?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹彰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹睿</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹爽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹松</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫魯班的第一任丈夫是?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">全琮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫休</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫峻</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周循</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張遼字什麼?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">子仲</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">子義</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">恭祖</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">文遠</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">下面關於青龍偃月刀哪一項說法是錯誤的?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">刀成之初曾染過青龍血</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽持有</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關興使用過</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">精鋼鑄做</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三國名駒&quot;爪黃飛電&quot;是誰的坐騎?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三國演義中, 十勝十敗論是誰提出的?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">荀彧</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">賈詡</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">郭嘉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權於何年接受魏國的冊封, 成為吳王</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元222年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元221年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元223年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元220年</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備出生在哪一年?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元131</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元141</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元151</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元161</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備入蜀後娶了誰的妹妹?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">吳班</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">陳靖</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">糜竺</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">吳懿</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三國中何人在戰場上殺了淩統的父親?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">甘寜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">田豐</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">馬超</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關索</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操於那場戰役中擊敗了袁譚?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">毛城之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">邯鄲之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">幽州之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">南皮之戰</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">以下不屬於魏國&quot;五子良將&quot;的武將是?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">樂進</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張遼</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">于禁</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">夏侯惇</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三國志中, 四勝四敗論是誰提出的?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">荀彧</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">賈詡</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">郭嘉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備死時的年齡是多少?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">64</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">65</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">66</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操於那場戰役中擊敗了尹楷?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">南皮之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">邯鄲之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">幽州之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">毛城之戰</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉禪的母親是誰 ?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">糜夫人</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">吳夫人</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">邵夫人</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">甘夫人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;威震逍遙津&quot;描述的是位五子良將的事蹟?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張遼</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">于禁</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">徐晃</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">樂進</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">誰最後統一了三國</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬炎</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬懿</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬昭</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬師</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">向曹操獻&quot;二虎競食&quot;及&quot;驅虎吞狼&quot;之計的是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">荀彧</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">郭嘉</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">程昱</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">賈詡</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">以下不屬於魏國&quot;五子良將&quot;的武將是?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">于禁</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">徐晃</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張郃</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">典韋</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">魏國的末代皇帝是?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹睿</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹髦</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹植</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹奐</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操出生在哪一年?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元125</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元135</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元145</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">西元155</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">七星寶刀原為何人所有?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">呂布</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">董卓</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">王允</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">漢靈帝末年, 在西州與邊章、韓遂等一同舉兵起事的是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">馬騰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">馬超</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公孫瓚</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">袁紹</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張寶被劉備射中何部位?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">左臂</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">左背</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">左肩</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">左腿</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉關張出道後殺死的第一個副將是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">程遠志</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">鄧茂</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫仲</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">許韶</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽是哪裡人?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">河東郡安邑人</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">河東郡聞喜人</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">河東郡猗氏人</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">河東郡解懸人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽原來的字是什麼?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">雲長</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">長生</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">漢升</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孟起</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">因迎奉漢靈帝之功, 被封為長安鄉侯的以下哪一位宦官?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張讓</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹節</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">趙忠</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">郭勝</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹仁率兵攻打新野擺出以下哪個陣法, 被徐庶識破, 大敗?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">一字長蛇陣</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">奇門遁甲陣</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">八門金鎖陣</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">地黃八幡陣</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">建安二十四年, 曹操因為哪位大將的威脅, 而有了&quot;徙許都以避其銳&quot;的打算?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">趙雲</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周瑜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">陸遜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操曾帶刀闖入十常侍中誰的府邸?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張讓</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">趙忠</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">夏惲</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">郭勝</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">下列武將中, 在《三國演義》和《三國志》中所記之字不同的是?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張飛</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫堅</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃忠</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操的祖父是宦官出身, 名叫什麼?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹謄</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹滕</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹騰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹藤</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">何年董卓入洛陽?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">187</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">192</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">194</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">189</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操是於何時中作《觀滄海》?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">208</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">209</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">210</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">207</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">荀彧、荀攸叔侄給曹操講述天下三&quot;力&quot;, 是下面哪三個?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">天力、地力、人力</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">武力、智力、天子之力</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">天力、地力、天子之力</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">武力、智力、魅力</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">姜維與鐘會密謀反叛被告發, 最終被誰率兵剿滅?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">文鴦</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">吳班</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">衛灌</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">郤正</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">南蠻第一智者是以下哪一位?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">董荼那</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">金環三結</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">朵思大王</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">帶來洞主</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽的美髯有多長?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">一尺</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">一尺八寸</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">二尺</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">二尺五寸</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">以下那個不是三國演義書中所提到的特殊兵種?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">虎豹騎</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">藤甲兵</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">連弩兵</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">大象兵</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">最早預言曹操&quot;將來能安天下&quot;的是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操叔父</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹嵩</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">何顒</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">許劭</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備十五歲時外出游學, 曾拜在誰門下?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">盧植</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">鄭玄</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">管寜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">華歆</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">《三國演義》中, 誰&quot;賠了夫人又折兵&quot;?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周瑜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫尚香</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫策</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃蓋</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">直言曹操是&quot;治世之能臣, 亂世之姦雄&quot;的是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹嵩</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">橋玄</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">何顒</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">許劭</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;吉利&quot;是誰的小名?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫策</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公孫瓚</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">蘇東坡詞念奴嬌中&quot;羽扇綸巾, 談笑間, 檣櫓灰飛煙滅。&quot;指的是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">郭嘉</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬懿</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周瑜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">程畿的字是什麼?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公弘</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">文進</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">南和</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">季然</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮躬耕田畝之時, 常常以誰自比?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">管仲、鮑叔</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">管仲、樂毅</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">百裡奚、樂毅</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">伊尹、百裡奚</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">袁紹被眾人推選為討伐軍盟主, 誰請纓當先鋒?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫堅</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">袁術</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;人情勢利古猶今, 誰識英雄是白身&quot;這句話指的是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫堅</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫策</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮和諸葛恪是什麼關係?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">父子</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">叔侄</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">兄弟</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">祖孫</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">家住樓桑村的是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉焉</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張飛</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">馬騰曾被朝廷授予什麼官職?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">鎮西將軍</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">徵西將軍</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">鎮東將軍</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">徵東將軍</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">蘇雙、張世平兩人是從事什職業的?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">賣酒</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">打鐵匠</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">販馬</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">屠夫</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">虎牢關戰役登場時, 孫堅頭戴著的是?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">紅色的頭巾</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃色的頭巾</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">紫色的頭巾</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">藍色的頭巾</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉焉發榜招軍時, 劉備多少歲?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">十八歲</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">二十八歲</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三十六歲</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">四十二歲</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">掛印封金</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備之弟</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">五虎上將</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張飛</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">董卓</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">馬超</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">荊州</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">東吳四傑</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">白衣渡江</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">魯肅</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">呂蒙</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周瑜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">陸遜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">《三國演義》中，趙雲最初事從哪位主君?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">袁紹</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公孫瓚</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">田楷</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">火燒</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">上方谷</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">誘敵之人</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬懿</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">魏延</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬昭</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">吳國</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">統率很高</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">逍遙津之戰</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">甘寜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張遼</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">凌統</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">東興之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">主帥</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">官至太傳</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">甘寜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛恪</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">丁奉</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">凌統</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">被曹操所殺</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">收留曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操逃離洛陽</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">袁紹</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">呂伯奢</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">陳宮</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">水鏡先生是指?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">龐統</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">徐晃</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬徽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">77</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操運用了什麼計謀打敗了馬超?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">離間計</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">美人計</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">苦肉計</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">連環計</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;百步穿楊&quot;描述的是哪位武將?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孟獲</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃忠</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">79</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">刺殺董卓</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">失敗獻刀</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操兵器</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">倚天劍</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">七星刀</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">古錠刀</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">青釭劍</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">稱帝</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">蜀漢</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元220年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元229年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元222年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元221年</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">81</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操逃離洛陽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">救下曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">反目離去</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">袁紹</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">呂伯奢</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">陳宮</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三國中，&quot;出師未捷身先死&quot;， 說的是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周瑜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃蓋</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張遼</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">83</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">《三國演義》的作者是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹雪芹</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">陳壽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">羅貫中</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">金庸</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三國中，孫權和步練師是什麼關係?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">夫妻</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">姐弟</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">兄妹</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">遠親</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三國中，下列何者為中國四大美人之一?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">貂蟬</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃月英</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫尚香</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">步練師</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">86</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">太平清領道」第一發現者是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張角</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">左慈</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">于吉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">上方谷</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">被圍之人</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">火燒</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">魏延</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬懿</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬昭</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">趙雲&quot;七進七出&quot;是為了救誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉禪</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關羽</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃月英</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;雙股劍&quot;是誰的武器?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉備</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫尚香</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">呂布</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">誰被曹操讚譽有&quot;周亞夫之風&quot;?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹仁</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">夏侯淵</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張遼</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">徐晃</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">91</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">《三國演義》中, &quot;草船借箭&quot;出自何人之手?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛亮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">周瑜</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃蓋</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">92</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">在臨沮戰敗，與關羽一同被斬殺的是有誰？</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關興</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關彝</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關統</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">關平</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">蜀吳</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">戰役</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">火燒連營</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">夷陵之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">赤壁之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">官渡之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">討董之戰</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">94</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">復投魏國</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">叛魏降吳</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">七進七出</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">陸抗</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">文鴦</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛恪</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛誔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">戰役</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">袁紹</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">官渡之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">討董之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">易京之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">赤壁之戰</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">96</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">東興之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">雪中奮短兵</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">江表之虎臣</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛恪</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">凌統</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">甘寧</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">丁奉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">97</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">稱王</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">東吳</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元221年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元220年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元222年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元229年</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">98</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">討董主力</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">長沙太守</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">被黃祖所殺</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫尚香</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫策</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫堅</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">蜀國武將</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">長阪坡</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劍</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">青釭劍</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">方天畫戟</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">倚天劍</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">丈八蛇芧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">漢獻帝的名諱是?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉辯</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉琮</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉協</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉琦</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">101</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操封漢丞相</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">赤壁之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">劉表死亡</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元210年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元200年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元208年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元184年</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">102</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三國中, 在戰場上撥矢啖睛的是誰?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">夏侯惇</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">夏侯淵</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">王允</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">黃忠</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">103</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權繼位</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫策死亡</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">官渡之戰</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元184年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元208年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元210年</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">公元200年</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">104</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">高平陵事變</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">三馬同糟</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">狼顧之相</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬懿</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬炎</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬師</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">司馬昭</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">105</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">著作</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">道學</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">于吉</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">《青囊書》</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">《孟德新書》</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">《太平青領道》</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">《遁甲天書》</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">106</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">趙雲在長阪坡獲得的武器是什麼?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">龍膽槍</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">倚天劍</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">古錠刀</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">青釭劍</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">107</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">《太平要術》是南華老仙送給誰的三捲天書?</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張寶</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張角</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張梁</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">以上三人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">108</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹操主簿</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">持才傲物</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">才士</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">曹植</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">禰衡</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孔融</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">楊修</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">109</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">精銳士兵</Data></Cell>
+    <Cell><Data ss:Type="String">魏國</Data></Cell>
+    <Cell><Data ss:Type="String">步兵</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">白毦兵</Data></Cell>
+    <Cell><Data ss:Type="String">虎豹騎</Data></Cell>
+    <Cell><Data ss:Type="String">西涼鐵騎</Data></Cell>
+    <Cell><Data ss:Type="String">虎衞</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">110</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">精銳士兵</Data></Cell>
+    <Cell><Data ss:Type="String">魏國</Data></Cell>
+    <Cell><Data ss:Type="String">騎兵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">白毦兵</Data></Cell>
+    <Cell><Data ss:Type="String">虎豹騎</Data></Cell>
+    <Cell><Data ss:Type="String">西涼鐵騎</Data></Cell>
+    <Cell><Data ss:Type="String">虎衞</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">111</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">精銳士兵</Data></Cell>
+    <Cell><Data ss:Type="String">蜀國</Data></Cell>
+    <Cell><Data ss:Type="String">步兵</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">白毦兵</Data></Cell>
+    <Cell><Data ss:Type="String">虎豹騎</Data></Cell>
+    <Cell><Data ss:Type="String">西涼鐵騎</Data></Cell>
+    <Cell><Data ss:Type="String">虎衞</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">精銳士兵</Data></Cell>
+    <Cell><Data ss:Type="String">蜀國</Data></Cell>
+    <Cell><Data ss:Type="String">騎兵</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">白毦兵</Data></Cell>
+    <Cell><Data ss:Type="String">虎豹騎</Data></Cell>
+    <Cell><Data ss:Type="String">西涼鐵騎</Data></Cell>
+    <Cell><Data ss:Type="String">虎衞</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">113</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">江表之虎臣</Data></Cell>
+    <Cell><Data ss:Type="String">英勇救主</Data></Cell>
+    <Cell><Data ss:Type="String">膚如刻畫</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">程普</Data></Cell>
+    <Cell><Data ss:Type="String">周泰</Data></Cell>
+    <Cell><Data ss:Type="String">韓當</Data></Cell>
+    <Cell><Data ss:Type="String">黃蓋</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">114</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">三馬同槽</Data></Cell>
+    <Cell><Data ss:Type="String">東興之戰</Data></Cell>
+    <Cell><Data ss:Type="String">擅行廢立</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">司馬炎</Data></Cell>
+    <Cell><Data ss:Type="String">司馬懿</Data></Cell>
+    <Cell><Data ss:Type="String">司馬昭</Data></Cell>
+    <Cell><Data ss:Type="String">司馬師</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">115</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">壽春</Data></Cell>
+    <Cell><Data ss:Type="String">救援</Data></Cell>
+    <Cell><Data ss:Type="String">東吳重臣</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">諸葛誔</Data></Cell>
+    <Cell><Data ss:Type="String">陸抗</Data></Cell>
+    <Cell><Data ss:Type="String">諸葛恪</Data></Cell>
+    <Cell><Data ss:Type="String">文鴦</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">116</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">小沛</Data></Cell>
+    <Cell><Data ss:Type="String">神射手</Data></Cell>
+    <Cell><Data ss:Type="String">轅門射戟</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">太史慈</Data></Cell>
+    <Cell><Data ss:Type="String">黃忠</Data></Cell>
+    <Cell><Data ss:Type="String">孫策</Data></Cell>
+    <Cell><Data ss:Type="String">呂布</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">117</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">敗走</Data></Cell>
+    <Cell><Data ss:Type="String">華容道</Data></Cell>
+    <Cell><Data ss:Type="String">統率很高</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">曹操</Data></Cell>
+    <Cell><Data ss:Type="String">關羽</Data></Cell>
+    <Cell><Data ss:Type="String">呂布</Data></Cell>
+    <Cell><Data ss:Type="String">徐晃</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">謀害鄧艾</Data></Cell>
+    <Cell><Data ss:Type="String">滅蜀元勛</Data></Cell>
+    <Cell><Data ss:Type="String">死於兵變</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">鄧艾</Data></Cell>
+    <Cell><Data ss:Type="String">姜維</Data></Cell>
+    <Cell><Data ss:Type="String">司馬昭</Data></Cell>
+    <Cell><Data ss:Type="String">鐘會</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">119</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">第三次</Data></Cell>
+    <Cell><Data ss:Type="String">劉備留駐之地</Data></Cell>
+    <Cell><Data ss:Type="String">三讓徐州</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">關羽</Data></Cell>
+    <Cell><Data ss:Type="String">黃忠</Data></Cell>
+    <Cell><Data ss:Type="String">小沛</Data></Cell>
+    <Cell><Data ss:Type="String">徐州</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">120</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">孫堅</Data></Cell>
+    <Cell><Data ss:Type="String">袁紹</Data></Cell>
+    <Cell><Data ss:Type="String">曹操</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">討董之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">赤壁之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">易京之戰</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">官渡之戰</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">121</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">以晉代魏</Data></Cell>
+    <Cell><Data ss:Type="String">文明皇后之子</Data></Cell>
+    <Cell><Data ss:Type="String">統一三國</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">司馬懿</Data></Cell>
+    <Cell><Data ss:Type="String">司馬炎</Data></Cell>
+    <Cell><Data ss:Type="String">司馬昭</Data></Cell>
+    <Cell><Data ss:Type="String">司馬師</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">122</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">政治很高</Data></Cell>
+    <Cell><Data ss:Type="String">吳國</Data></Cell>
+    <Cell><Data ss:Type="String">逍遙津之戰</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">張遼</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">凌統</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">孫權</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">甘寜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">武力很高</Data></Cell>
+    <Cell><Data ss:Type="String">截江奪鬥</Data></Cell>
+    <Cell><Data ss:Type="String">綁架阿斗的人</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">張飛</Data></Cell>
+    <Cell><Data ss:Type="String">阿斗</Data></Cell>
+    <Cell><Data ss:Type="String">趙雲</Data></Cell>
+    <Cell><Data ss:Type="String">孫尚香</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">124</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">三馬同槽</Data></Cell>
+    <Cell><Data ss:Type="String">狼顧之相</Data></Cell>
+    <Cell><Data ss:Type="String">高平陵事變</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">司馬師</Data></Cell>
+    <Cell><Data ss:Type="String">司馬炎</Data></Cell>
+    <Cell><Data ss:Type="String">司馬懿</Data></Cell>
+    <Cell><Data ss:Type="String">司馬昭</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">125</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">官至西陵太守</Data></Cell>
+    <Cell><Data ss:Type="String">江表之虎臣</Data></Cell>
+    <Cell><Data ss:Type="String">錦帆賊</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">凌統</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">諸葛恪</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">丁奉</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">甘寧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">126</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">定軍山之戰</Data></Cell>
+    <Cell><Data ss:Type="String">神射手</Data></Cell>
+    <Cell><Data ss:Type="String">射殺夏侯淵</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">黃忠</Data></Cell>
+    <Cell><Data ss:Type="String">孫策</Data></Cell>
+    <Cell><Data ss:Type="String">太史慈</Data></Cell>
+    <Cell><Data ss:Type="String">呂布</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">127</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">五虎上將</Data></Cell>
+    <Cell><Data ss:Type="String">挑燈夜戰</Data></Cell>
+    <Cell><Data ss:Type="String">西涼鐵騎</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">馬超</Data></Cell>
+    <Cell><Data ss:Type="String">張飛</Data></Cell>
+    <Cell><Data ss:Type="String">呂布</Data></Cell>
+    <Cell><Data ss:Type="String">董卓</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">128</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">根據以下3個提示，選擇一個最合適的答案</Data></Cell>
+    <Cell><Data ss:Type="String">步步為營</Data></Cell>
+    <Cell><Data ss:Type="String">樊城之戰</Data></Cell>
+    <Cell><Data ss:Type="String">武力很高</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">曹操</Data></Cell>
+    <Cell><Data ss:Type="String">關羽</Data></Cell>
+    <Cell><Data ss:Type="String">徐晃</Data></Cell>
+    <Cell><Data ss:Type="String">呂布</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">129</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <TopRowVisible>93</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>105</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15.75">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15.75">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x2:MapInfo x2:HideInactiveListBorder="false">
+  <x2:Schema x2:ID="Schema1" x2:Namespace=""><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"><xsd:element nillable="true" name="QData"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="Question" form="unqualified"><xsd:complexType><xsd:all><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="QuestionID" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="QuestionType" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="QuestionText" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Hint1" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Hint2" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Hint3" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="Answer" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Option1" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Option2" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Option3" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Option4" form="unqualified"></xsd:element></xsd:all></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:schema></x2:Schema>
+  <x2:Map x2:ID="QData_Map" x2:SchemaID="Schema1" x2:RootElement="QData">
+   <x2:Entry x2:Type="table" x2:ID="1" x2:ShowTotals="false">
+    <x2:Range>Sheet1!R2C1:R143C11</x2:Range>
+    <x2:HeaderRange>R1C1</x2:HeaderRange>
+    <x:FilterOn>True</x:FilterOn>
+    <x2:XPath>/QData/Question</x2:XPath>
+    <x2:Field x2:ID="QuestionID">
+     <x2:Range>RC</x2:Range>
+     <x2:XPath>QuestionID</x2:XPath>
+     <x2:XSDType>integer</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="QuestionType">
+     <x2:Range>RC[1]</x2:Range>
+     <x2:XPath>QuestionType</x2:XPath>
+     <x2:XSDType>integer</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="QuestionText">
+     <x2:Range>RC[2]</x2:Range>
+     <x2:XPath>QuestionText</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="Hint1">
+     <x2:Range>RC[3]</x2:Range>
+     <x2:XPath>Hint1</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="Hint2">
+     <x2:Range>RC[4]</x2:Range>
+     <x2:XPath>Hint2</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="Hint3">
+     <x2:Range>RC[5]</x2:Range>
+     <x2:XPath>Hint3</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="Answer">
+     <x2:Range>RC[6]</x2:Range>
+     <x2:XPath>Answer</x2:XPath>
+     <x2:XSDType>integer</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="Option1">
+     <x2:Range>RC[7]</x2:Range>
+     <x2:XPath>Option1</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="Option2">
+     <x2:Range>RC[8]</x2:Range>
+     <x2:XPath>Option2</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="Option3">
+     <x2:Range>RC[9]</x2:Range>
+     <x2:XPath>Option3</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="Option4">
+     <x2:Range>RC[10]</x2:Range>
+     <x2:XPath>Option4</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+   </x2:Entry>
+  </x2:Map>
+ </x2:MapInfo>
+ <x2:Binding x2:ID="Binding1" x2:LoadMode="normal">
+  <x2:MapID>QData_Map</x2:MapID>
+<udc:DataSource MajorVersion="1" MinorVersion="0" xmlns:udc="http://schemas.microsoft.com/data/udc">
+  <udc:Type Type="XMLFile" MajorVersion="1" MinorVersion="0"/>
+  <udc:Name>Binding1</udc:Name>
+  <udc:ConnectionInfo Purpose="Query">
+    <udcxf:File xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile">C:\Users\HaDao\Documents\GitHub\supersongoku.github.io\questions3B.xml</udcxf:File>
+  </udc:ConnectionInfo>
+</udc:DataSource>
+ </x2:Binding>
+</Workbook>
