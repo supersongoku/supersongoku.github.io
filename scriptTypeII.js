@@ -55,7 +55,7 @@ function LoadQuestion(){
     $(document).ready(function(){
 	    $.ajax({
 	      type: "GET",
-	      url: "questions3B.xml",
+	      url: "questionsTypeII.xml",
 		  cache:false,
 	      dataType: "xml",
 	      success: function(xml){
